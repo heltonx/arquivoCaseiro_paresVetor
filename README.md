@@ -1,2 +1,2 @@
 # mursilha_paresVetor
-soma os pares de um vetor
+soma os pares de um vetor python
