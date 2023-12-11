@@ -1,0 +1,30 @@
+
+vetor[x,x,x,x,x,x,x,x]
+
+i=0
+
+for i in range(len(vetor)):
+	if vetor[i]%2==0:
+		print vetor[i]
+	i=i+1
+
+
+
+
+==================
+
+soma os elementos pares de um vetor
+
+
+vetor =[x,x,x,x,x]
+
+i=0
+armazen = 0
+
+
+for i in range(len(vetor)):
+
+	if vetor[i]%2==0:
+		armazem = armazen + vetor[i]
+
+print armazem
